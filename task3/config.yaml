@@ -1,0 +1,6 @@
+model_type: "RandomForest" # Options: RandomForest, KNN, SVM
+test_size: 0.2
+random_state: 42
+model_path: "artifacts/model.pkl"
+encoder_path: "artifacts/encoder.pkl"
+data_path: "data/IRIS.csv"
