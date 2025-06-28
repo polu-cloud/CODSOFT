@@ -1,0 +1,92 @@
+2025-06-28 18:29:13,563 - INFO - Training model: logreg
+2025-06-28 18:29:40,654 - INFO - Training model: logreg
+2025-06-28 18:29:40,664 - INFO - Model saved to models\model.pkl
+2025-06-28 18:29:40,675 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9646    0.9893    0.9768       468
+           1     0.9550    0.8618    0.9060       123
+
+    accuracy                         0.9628       591
+   macro avg     0.9598    0.9256    0.9414       591
+weighted avg     0.9626    0.9628    0.9621       591
+
+2025-06-28 18:29:40,675 - INFO - Confusion Matrix:
+[[463   5]
+ [ 17 106]]
+2025-06-28 18:33:28,566 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:33:28,716 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:33:30,343 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:33:30,349 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:33:30,429 - INFO - Training model: logreg
+2025-06-28 18:33:30,442 - INFO - Model saved to models\model.pkl
+2025-06-28 18:33:30,451 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9646    0.9893    0.9768       468
+           1     0.9550    0.8618    0.9060       123
+
+    accuracy                         0.9628       591
+   macro avg     0.9598    0.9256    0.9414       591
+weighted avg     0.9626    0.9628    0.9621       591
+
+2025-06-28 18:33:30,451 - INFO - Confusion Matrix:
+[[463   5]
+ [ 17 106]]
+2025-06-28 18:35:03,369 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:35:03,513 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:35:05,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:35:05,005 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:35:05,074 - INFO - Training model: rf
+2025-06-28 18:35:06,287 - INFO - Model saved to models\model.pkl
+2025-06-28 18:35:06,308 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9629    0.9979    0.9801       468
+           1     0.9906    0.8537    0.9170       123
+
+    accuracy                         0.9679       591
+   macro avg     0.9767    0.9258    0.9485       591
+weighted avg     0.9686    0.9679    0.9669       591
+
+2025-06-28 18:35:06,308 - INFO - Confusion Matrix:
+[[467   1]
+ [ 18 105]]
+2025-06-28 18:36:12,550 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:36:12,672 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:36:14,212 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:36:14,216 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:36:14,284 - INFO - Training model: logreg
+2025-06-28 18:36:14,295 - INFO - Model saved to models\model.pkl
+2025-06-28 18:36:14,303 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9646    0.9893    0.9768       468
+           1     0.9550    0.8618    0.9060       123
+
+    accuracy                         0.9628       591
+   macro avg     0.9598    0.9256    0.9414       591
+weighted avg     0.9626    0.9628    0.9621       591
+
+2025-06-28 18:36:14,304 - INFO - Confusion Matrix:
+[[463   5]
+ [ 17 106]]
+2025-06-28 18:47:54,771 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:47:54,919 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:47:56,494 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:47:56,500 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-28 18:47:56,575 - INFO - Training model: logreg
+2025-06-28 18:47:56,592 - INFO - Model saved to models\model.pkl
+2025-06-28 18:47:56,599 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9646    0.9893    0.9768       468
+           1     0.9550    0.8618    0.9060       123
+
+    accuracy                         0.9628       591
+   macro avg     0.9598    0.9256    0.9414       591
+weighted avg     0.9626    0.9628    0.9621       591
+
+2025-06-28 18:47:56,599 - INFO - Confusion Matrix:
+[[463   5]
+ [ 17 106]]
