@@ -126,7 +126,7 @@ Test R2:   0.9784
 ```powershell
 uv sync
 ```
-
+> Before running this make sure to create the `data/processed` directory. Otherwise the pipeline won't work properly 
 ### 🚀 Run the pipeline
 
 ```powershell
